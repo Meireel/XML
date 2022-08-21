@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?><root>
+    <formatName>JSON</formatName>
+    <formatName2>XML</formatName2>
+    <apiTestInstrument>Postman</apiTestInstrument>
+    <terminal>bash</terminal>
+    <systemOfVersions>'Git'</systemOfVersions>
+
+cat>>skills.xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <formatName>JSON</formatName>
+    <formatName2>XML</formatName2>
+    <apiTestInstrument>Postman</apiTestInstrument>
+    <terminal>bash</terminal>
+    <systemOfVersions>'Git'</systemOfVersions>
+</root>
